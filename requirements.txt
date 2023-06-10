@@ -1,0 +1,6 @@
+streamlit 
+random
+datasets
+transformers 
+tensorflow 
+
